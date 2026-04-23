@@ -20,8 +20,11 @@ Building scalable, reproducible workflows for multi-omic data analysis
 I design and implement computational pipelines to extract biological insight from complex datasets, with a focus on:
 
 →Single-nucleus RNA-seq
+
 →Spatial transcriptomics
+
 →Proteomics (TMT, IP, PTMs)
+
 →Multi-omic integration
 
 My work sits at the intersection of biology, statistics, and software engineering, translating high-dimensional data into interpretable models of disease.
