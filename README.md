@@ -15,12 +15,16 @@ I work at the intersection of neurodegeneration, single-nucleus RNA-seq, spatial
 
 →  What I Build
 
-I develop reusable analysis workflows for:
+Building scalable, reproducible workflows for multi-omic data analysis
 
-Single-nucleus RNA-seq (Seurat, pseudobulk, CellChat)
-Spatial transcriptomics (GeoMx, ROI modeling, mixed models)
-Proteomics (TMT, IP interactors, PTM analysis)
+I design and implement computational pipelines to extract biological insight from complex datasets, with a focus on:
+
+Single-nucleus RNA-seq
+Spatial transcriptomics
+Proteomics (TMT, IP, PTMs)
 Multi-omic integration
+
+My work sits at the intersection of biology, statistics, and software engineering, translating high-dimensional data into interpretable models of disease.
 
 📂 Featured Projects (in progress)
 🧬 neuro-snRNAseq-tools → reusable Seurat + pseudobulk + CellChat workflows
