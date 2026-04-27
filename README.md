@@ -30,7 +30,7 @@ I design and implement computational pipelines to extract biological insight fro
 My work sits at the intersection of biology, statistics, and software engineering, translating high-dimensional data into interpretable models of disease.
 
 📂 Featured Projects (in progress)
-🧬 neuro-snRNAseq-tools → reusable Seurat + pseudobulk + CellChat workflows
+🧬 neuro-snRNAseq-tools → reusable Seurat + pseudobulk workflows
 🧭 spatial-transcriptomics-tools → ROI modeling + spatial analysis utilities
 🧪 proteomics-analysis-tools → TMT/IP and PTM analysis pipelines
 
