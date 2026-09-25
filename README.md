@@ -83,6 +83,7 @@ The repository includes reproducible workflows for:
 This project reflects my broader interest in developing computational approaches that connect **cellular identity, spatial context, and biological state** from multimodal measurements.
 
 🔗 **[https://github.com/Echimalj/multiomic-spatial-integration]**
+
 📫 Contact
 Email: echimalj@gmail.com
 LinkedIn: (https://www.linkedin.com/in/echimalj/)
